@@ -10,7 +10,7 @@ Uma landing page para um curso de fotografia.
 
 <img src = ".\images\logo\pip-logo.png">
 
-[site](https://rangel-web.com/curso-fotografia/)
+[site](https://anapaixao.github.io/landing-agil-fotografia/)
 
 ## Integrantes
 
